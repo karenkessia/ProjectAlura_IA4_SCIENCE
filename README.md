@@ -1,9 +1,7 @@
 # Project_ImmersionAlura_-IA4_SCIENCE
 
-<h2 align="center">  IA4-SPACE (Artificial Intelligence for Space)
- </h2>
-![Purple Badge Academy Logo png](https://github.com/karenkessia/ProjectAlura_IA4_SCIENCE/assets/147193080/42a5d054-c5e2-4cca-9211-f57d950155a4)
- 
+![Picsart_24-05-11_15-19-20-891](https://github.com/karenkessia/ProjectAlura_IA4_SCIENCE/assets/147193080/70af28f9-1c4b-41ab-8512-2d60369ee162)
+
 
 https://github.com/karenkessia/ProjectAlura_IA4_SCIENCE/assets/147193080/6a8f897f-f2c9-476d-8849-288e5042c106
 
@@ -20,6 +18,8 @@ https://github.com/karenkessia/ProjectAlura_IA4_SCIENCE/assets/147193080/6a8f897
 #### O mundo dos chatbots se apresenta como um universo empolgante e promissor, permeado por inteligência artificial e outras tecnologias. Diante desse cenário fascinante, desta descoberta científica, surge a oportunidade de desvendarmos os segredos da criação de chatbots, através de todo o aprendizado que obtivemos nas aulas sobre a criação deles, mesmo para aqueles que estão apenas dando seus primeiros passos nessa área. Através deste pequeno projeto, embarcaremos em uma breve jornada de aprendizado, explorando uma base conceitual lógica simplificada para o desenvolvimento de chatbots, mesmo para estudantes iniciantes. Utilizaremos as ferramentas: Linguagem Python, Gemini, Google AI STUDIO, Engenharia de Prompt.
 
 #### *OBS: O código não se conecta a nenhum sistema real de controle de nave espacial ou ambiente espacial. É apenas uma simulação para fins de demonstração.*
+
+<h2 align="center"> 🤖 IA4-SPACE (Artificial Intelligence for Space) 🛰️  </h2>
 
 ### Funcionalidades
 
