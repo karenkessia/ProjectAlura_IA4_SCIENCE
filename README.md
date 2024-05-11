@@ -3,6 +3,12 @@
 <h2 align="center">  IA4-SPACE (Artificial Intelligence for Space)
  </h2>
 
+ 
+
+https://github.com/karenkessia/ProjectAlura_IA4_SCIENCE/assets/147193080/6a8f897f-f2c9-476d-8849-288e5042c106
+
+
+
  ### 🚀Introdução
 
  #### “Em um futuro não tão distante, interfaces com inteligência artificial (IA) podem ser usadas no espaço, permitindo interações entre astronautas e  veículos espaciais. A NASA demonstra estar se aventurando nesse mundo de chatbots e desenvolvimento com assistentes virtuais, o que é um salto na ciência. No ano passado, a pesquisadora e visitante da NASA Larissa Suzuki, contou que a agência espacial planeja usar uma versão inicial de uma interface com IA na futura estação espacial Lunar Gateway, cuja construção deve começar com a missão Artemis 4.
