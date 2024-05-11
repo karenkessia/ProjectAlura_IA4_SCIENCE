@@ -2,7 +2,7 @@
 
 <h2 align="center">  IA4-SPACE (Artificial Intelligence for Space)
  </h2>
-
+![Purple Badge Academy Logo png](https://github.com/karenkessia/ProjectAlura_IA4_SCIENCE/assets/147193080/42a5d054-c5e2-4cca-9211-f57d950155a4)
  
 
 https://github.com/karenkessia/ProjectAlura_IA4_SCIENCE/assets/147193080/6a8f897f-f2c9-476d-8849-288e5042c106
